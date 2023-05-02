@@ -1,0 +1,6 @@
+tensorflow==2.8.0
+flask
+matplotlib
+numpy
+gunicorn
+protobuf==3.20.*
